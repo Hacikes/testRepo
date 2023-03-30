@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 2) String1, Sring2, String3, String4
 
 
+=======
+String1, Sring2, add String3
+>>>>>>> parent of ba6aae6 (change file.txt)
