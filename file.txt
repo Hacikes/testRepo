@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2) String1, Sring2, String3, String4
+=======
+1) String1, Sring2, String3, String4
+>>>>>>> parent of 1082201 (Again change file.txt)
 
 
 =======
